@@ -1,6 +1,7 @@
 body,
 h3 {
   margin: 5px;
+  font-size: 10px;
 }
 
 body {
@@ -144,7 +145,7 @@ ul {
   }
   .about-container.side-by-side-item {
     box-sizing: border-box;
-    margin: 5px;
+    margin: 50px auto;
   }
   .about-container {
     display: flexbox;
