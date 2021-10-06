@@ -20,9 +20,7 @@ ul {
 
 .company-name {
   color: #000;
-}
-.nav {
-  display: flex-box;
+  text-align: left;
 }
 
 .nav-list {
